@@ -39,13 +39,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadi-SeyedMohammadHossein&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadi-SeyedMohammadHossein&layout=compact&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadi-SeyedMohammadHossein&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadi-SeyedMohammadHossein&layout=compact&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seyed--Mohammad--Hossein--Ahmadi-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/seyed-mohammad-hossein-ahmadi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/seyed-mohammad-hossein-ahmadi)
 [![Email](https://img.shields.io/badge/Email-s.m.ahmadi@outlook.com-red?logo=microsoft-outlook&logoColor=white)](mailto:s.m.ahmadi@outlook.com)
